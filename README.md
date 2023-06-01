@@ -1,6 +1,6 @@
 <h1 align="center">Hey ✌🏾, I'm Ade</h1>
 <h3 align="center">An enthusiastic software developer & systems programmer</h3>
-<img style="width:100%" src="https://github.com/itsATB/itsatb/blob/main/Portfolio%20Banner.gif?raw=true"/>
+<img style="width:80%" src="https://github.com/itsATB/itsatb/blob/main/Portfolio%20Banner.gif?raw=true"/>
 </br>
 
 
