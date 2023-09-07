@@ -1,5 +1,5 @@
 <h1 align="center">Hey ✌🏾, I'm Ade</h1>
-<h3 align="center">Software developer & systems programmer extrodinaire (not exactly)</h3>
+<h3 align="center">Software developer & Systems programmer </h3>
 <div align="center"> <img style="width:80%" src="https://github.com/itsATB/itsatb/blob/main/Portfolio%20Banner.gif?raw=true"/> </div>
 </br>
 
