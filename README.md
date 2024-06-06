@@ -1,4 +1,4 @@
-<h1 align="center">Hey ✌🏾, I'm Ade</h1>
+<h1 align="center">Hi 🙋🏾‍♂️, I'm Ade</h1>
 <h3 align="center">Software developer & Systems programmer </h3>
 <div align="center"> <img style="width:80%" src="https://github.com/itsATB/itsatb/blob/main/Portfolio%20Banner.gif?raw=true"/> </div>
 </br>
