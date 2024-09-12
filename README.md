@@ -85,12 +85,13 @@
 
   - 📚 Currently learning **Unity Development, C#**
 
-  - ❗ Fun fact **I'm hugely into game deveploment, I love learning more about the process of how games are made.**
+  - ❗ Fun fact: **I'm hugely into game deveploment, I love learning more about the process of how games are made.**
 
 </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ade-banjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeoye-banjo" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/ade-banjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeoye-banjo" height="40" width="40" /></a>
+  &nbsp;
   <a href="mailto:timothybanjo@outlook.com"> <img align="center" src="https://www.clipartmax.com/png/middle/16-164392_open-microsoft-outlook-logo.png" width="40" height="40" /></a>
 </p>
