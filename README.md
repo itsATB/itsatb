@@ -1,27 +1,7 @@
 <h1 align="center">Hi 🙋🏾‍♂️, I'm Ade</h1>
 <h3 align="center">Software developer & Systems programmer </h3>
-<div align="center"> <img style="width:80%" src="https://github.com/itsATB/itsatb/blob/main/Portfolio%20Banner.gif?raw=true"/> </div>
+<div align="center"> <img style="width:65%" src="https://github.com/itsATB/itsatb/blob/main/Portfolio%20Banner.gif?raw=true"/> </div>
 </br>
-
-
-
-<h1 align="center"> 📊  GitHub Stats </h1>
-
-<p align="center">
-  <a href="https://github.com/itsATB/itsatb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsatb&show_icons=true&theme=tokyonight&title_color=ff4499&text_color=00ffd2&bg_color=0a0047&locale=en" alt="itsatb" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/itsATB/itsatb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsATB&layout=compact&hide=pug&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000&langs_count=20" /></a>
-  <!--- <a href="https://github.com/itsATB/itsatb">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsatb&theme=dark&bg_color=000000" alt="itsatb" /></a> -->
-</p>
-
-
-[COMMENT]: [![trophy](https://github-profile-trophy.vercel.app/?username=itsatb&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=itsatb&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
-</br>
-
 
 
 
@@ -70,6 +50,25 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <!--- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) -->
+
+
+</br>
+
+
+<h1 align="center"> 📊  GitHub Stats </h1>
+
+<p align="center">
+  <a href="https://github.com/itsATB/itsatb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsatb&show_icons=true&theme=tokyonight&title_color=ff4499&text_color=00ffd2&bg_color=0a0047&locale=en" alt="itsatb" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/itsATB/itsatb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsATB&layout=compact&hide=pug&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000&langs_count=20" /></a>
+  <!--- <a href="https://github.com/itsATB/itsatb">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsatb&theme=dark&bg_color=000000" alt="itsatb" /></a> -->
+</p>
+
+
+[COMMENT]: [![trophy](https://github-profile-trophy.vercel.app/?username=itsatb&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=itsatb&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
 </br></br>
